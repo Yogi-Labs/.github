@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/yogi-labs-banner.png" alt="Yogi Labs — Salesforce products people love to work in" width="100%">
+  <img src="../images/yogi-labs-banner.png" alt="Yogi Labs — Salesforce products people love to work in" width="100%">
 </p>
 
 <p align="center">
